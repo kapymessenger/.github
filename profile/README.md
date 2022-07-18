@@ -1,4 +1,4 @@
-# Kapy Messanger
+# Kapy Messenger
 
 ### What is it
 
