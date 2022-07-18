@@ -7,8 +7,8 @@ It is a project for an Android Development School of Higher School of Economics.
 
 ### Authors
 
-![Yuri Arisov](https://github.com/Yuriy007y)
+- ![Yuri Arisov](https://github.com/Yuriy007y)
 
-![Maxim Bataron](https://github.com/DiOnFire)
+- ![Maxim Bataron](https://github.com/DiOnFire)
 
-![Alexander Salakhov](https://github.com/Mrsuper125)
+- ![Alexander Salakhov](https://github.com/Mrsuper125)
